@@ -35,7 +35,7 @@
 
 <p align="center">
 <a href="https://github.com/dikaandrajoni/robotik"><img title="Ball Tracking" src="https://github-readme-stats.vercel.app/api/pin/?username=dikaandrajoni&repo=robotik&theme=radical"></a>
-<a href="https://github.com/dikaandrajoni/"><img title="dikaandrajoni" src="https://github-readme-stats.vercel.app/api/pin/?username=dikaandrajoni&repo=dikaandrajoni&theme=highcontrast"></a>
+<a href="https://github.com/dikaandrajoni/KuliahGolang"><img title="Golang" src="https://github-readme-stats.vercel.app/api/pin/?username=dikaandrajoni&repo=KuliahGolang&theme=highcontrast"></a>
 </p>
 *************
 
