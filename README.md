@@ -25,12 +25,20 @@
 
 <br/>
 
-<a href="https://github.com/dikaandrajoni">
-  <img src="https://github-readme-stats.vercel.app/api?username=dikaandrajoni&show_icons=true" alt="DikaPutraMinang's GitHub Stats" />
-</a>
-
+<p align="center"><a href="https://github.com/dikaandrajoni"><img title="Dika Putra Minang" src="https://github-readme-stats.vercel.app/api?username=dikaandrajoni&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+</p>
 <br />
+<p align="center">
+<a href="https://rebrand.ly/telegramchnl"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
+<a href="https://rebrand.ly/hckrgroups"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://rebrand.ly/insgrm"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
 
+<p align="center">
+<a href="https://github.com/dikaandrajoni/balltracking"><img title="balltracking" src="https://github-readme-stats.vercel.app/api/pin/?username=dikaandrajoni&repo=balltracking&theme=radical"></a>
+<a href="https://github.com/dikaandrajoni/mrphish"><img title="mrphish" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=mrphish&theme=highcontrast"></a>
+<a href="https://github.com/noob-hackers/kalimux"><img title="kalimux" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=kalimux&theme=vision-friendly-dark"></a>
+<a href="https://github.com/noob-hackers/ipdrone"><img title="ipdrone" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=ipdrone&theme=highcontrast"></a>
+</p>
 *************
 
 <br />
