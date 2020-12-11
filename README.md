@@ -14,7 +14,7 @@
 <br/>
 
 ### Hi 🙋‍♂️,
-### I'm 21 years old Self-taught developer, Robotics, and technical support engineer from Indonesia.
+### I'm 21 years old Self-Software Engineering, Robotics, and technical support engineer from Indonesia.
 
 <br/>
 
@@ -42,6 +42,7 @@
  </p>
  <p align="center">
  <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+  <code><a href="https://www.arduino.cc/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></a></code>
 <code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
