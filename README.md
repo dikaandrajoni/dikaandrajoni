@@ -1,7 +1,7 @@
 <h2>Hi, I'm Dika Andra Joni! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <br/>
-<a href="https://twitter.com/">
+<a href="https://twitter.com/dikaandrajoni">
   <img align="left" alt="Putra Minang| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.instagram.com/ddiiiiiikkkka.me/">
@@ -14,7 +14,7 @@
 <br/>
 
 ### Hi 🙋‍♂️,
-### I'm 21 years old Self-Software Engineering, Robotics, and technical support engineer from Indonesia.
+### I'm 21 years old, Software Engineering, Robotics, and technical support engineer from Indonesia.
 
 <br/>
 
