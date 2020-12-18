@@ -21,7 +21,7 @@
 
 **I am Into , 🙏**
 <br/>
-**Machine Learning, Web Development, Mobile Application Development, Linux, Arduino, Robotics Programming**
+**Web Development, Mobile Application Development, Linux, Arduino, Robotics Programming**
 
 <br/>
 
