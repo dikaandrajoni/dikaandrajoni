@@ -14,7 +14,7 @@
 <br/>
 
 ### Hi 🙋‍♂️,
-### I'm 21 years old, Software Engineering, Robotics, and technical support engineer from Indonesia.
+### I'm 21 years old, Software Engineering, and Robotics Programming from Indonesia.
 
 <br/>
 
