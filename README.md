@@ -13,7 +13,7 @@
 <br/>
 <br/>
 
-### Hi 🙋‍♂️,
+### Hi there🙋‍♂️,
 ### I'm 22 years old, Software Engineering, and Robotics Programming from Indonesia.
 
 <br/>
