@@ -14,7 +14,7 @@
 <br/>
 
 ### Hi there🙋‍♂️,
-### I'm 22 years old, Software Engineering, and Robotics Programming from Indonesia.
+### I'm Dika, Software Engineering, and Robotics Programming from Indonesia.
 
 <br/>
 
